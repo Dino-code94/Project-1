@@ -1,13 +1,170 @@
+/* Obtained from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@300&display=swap');
 
-* {
+/* The wild car format was adapted from the course work */
+*{
     margin: 0;
     padding: 0;
     border: none;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    font-weight: 300;
-    color: #3e3e3e;
+body{
+       font-family:Nunito,sans-serif; 
+   
 }
 
+/*style for the header section*/
+
+.nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 0 5px 0;
+    background-color: burlywood;
+}
+
+.nav-menu{
+ margin-top: 30px;
+}
+
+.nav-menu>a{
+    padding: 0px 15px;
+    margin:  0px 20px;
+    font-size:larger;
+    font-weight:500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color:black;
+}
+
+.nav-menu>a:hover {  
+    color:rgba(151, 49, 12, 0.986);
+    border-bottom: 1px solid chocolate;
+}
+.active{
+    border-bottom: 1px solid chocolate;
+}
+
+ #logo>img{
+    border-radius: 100%;
+    padding-top: 5%;
+}
+
+#logo>img{
+    border-radius: 100%;
+    padding-top: 5%;   
+}
+
+#hero-image{
+    width: 100%;
+}
+
+#hero-image>img{ 
+    background: no-repeat center center;
+    width: 100%;
+     
+} 
+
+.hero-section{
+    position: relative;
+}
+
+#quote>p{
+    color: white;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic;
+    position: absolute;
+    width: 270px;
+    height:80px;
+    right:200px;
+    bottom:0px;
+}
+
+.def-meditation{
+    margin:10px 150px 20px 150px;
+}
+
+#meditation-benefit{
+    margin-bottom: 10px; 
+}
+
+#meditation-benefit>a{
+    text-decoration: none;
+    color:coral;
+}
+
+p{
+ margin-bottom: 20px;
+ width: 75%;
+ text-align: justify;
+}
+
+ul{
+    list-style-type:none;   
+}
+
+li::before{
+    content: "\261B";
+    color: coral;
+    font-weight: bold;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+.meditation-types{
+    margin:10px 100px 20px 100px;
+   }
+
+   .form-section{
+    display: flex;
+    justify-content: center;
+}
+
+.form-content{   
+    margin: 20px 0 30px 250px; 
+}
+
+.label{
+font-weight: 500;
+}
+
+.contact{
+    color: black;
+    width: 400px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 2px; 
+    margin-bottom: 10px;    
+}
+
+.contact:hover{
+    border: 2px solid chocolate;
+}
+
+.feedback{
+    border: 1px solid black;
+    width: 400px;
+    height: 70px;
+    border-radius: 2px; 
+    margin-bottom: 10px;   
+}
+
+.feedback:hover{
+    border: 2px solid chocolate;
+}
+
+.submit-button{
+    border: 1px solid black;
+    width: 150px;
+    height:30px;
+    text-align: center;
+    border-radius: 2px; 
+    background-color:wheat;
+    margin: 25px 0 110px 110px;
+}
+
+.submit-button:hover{
+    border: 2px solid chocolate;
+    background-color:darkorange;
+    color:white
+}
