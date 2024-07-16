@@ -63,6 +63,7 @@ h1{
     margin: 51px;
     width: 50px;
     display: inline;
+    
 }
 
 
@@ -141,15 +142,13 @@ li {
     width: 75%;
    }
 
-   .form-section{
+.form-section{
     display: flex;
     justify-content: center;
 }
 
 .form-content{   
-    margin: 20px auto;
-    width: 75%; 
-    display: flow;
+    margin: 20px 0 40px 190px;
 }
 
 .label{
@@ -195,4 +194,11 @@ font-weight: 500;
     border: 2px solid rgb(175, 92, 33);
     background-color:darkorange;
     color:white
+}
+
+a {
+    margin: 20px;
+    font-size: xx-large;
+    color: blue;
+    
 }
