@@ -23,7 +23,7 @@ body{
 }
 
 .nav-menu{
- margin-top: 30px;
+ margin-top: 60px;
 }
 
 .nav-menu>a{
@@ -36,6 +36,17 @@ body{
     color:black;
 }
 
+nav ol {
+    display: block;
+}
+
+nav li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 50px;
+    
+}
+
 .nav-menu>a:hover {  
     color:rgba(151, 49, 12, 0.986);
     border-bottom: 1px solid chocolate;
@@ -44,25 +55,27 @@ body{
     border-bottom: 1px solid chocolate;
 }
 
- #logo>img{
-    border-radius: 100%;
-    padding-top: 5%;
-}
 
 #logo>img{
     border-radius: 100%;
-    padding-top: 5%;   
+    padding-top: 8%;
+    height: 130px;   
 }
 
 #hero-image{
     width: 100%;
+       
 }
 
 #hero-image>img{ 
     background: no-repeat center center;
     width: 100%;
+    padding: 0%;
+    margin: 0%;
+    height: 600px;
+}
      
-} 
+ 
 
 .hero-section{
     position: relative;
@@ -80,8 +93,10 @@ body{
     bottom:0px;
 }
 
-.def-meditation{
-    margin:10px 150px 20px 150px;
+.def-meditation {
+    margin: 20px auto;
+    width: 75%;
+    
 }
 
 #meditation-benefit{
@@ -100,19 +115,20 @@ p{
 }
 
 ul{
-    list-style-type:none;   
+    list-style-type:square;   
 }
 
-li::before{
+li {
     content: "\261B";
-    color: coral;
+    color: black;
     font-weight: bold;
     padding-right: 10px;
     text-align: justify;
 }
 
 .meditation-types{
-    margin:10px 100px 20px 100px;
+    margin: 20px auto;
+    width: 75%;
    }
 
    .form-section{
