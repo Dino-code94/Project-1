@@ -20,10 +20,11 @@ body{
     justify-content: space-evenly;
     padding: 0 0 5px 0;
     background-color: burlywood;
+    
 }
 
 .nav-menu{
- margin-top: 60px;
+ margin-top: 60%;
 }
 
 .nav-menu>a{
@@ -38,12 +39,14 @@ body{
 
 nav ol {
     display: block;
+    margin-top: 60px;
 }
 
 nav li{
     list-style-type: none;
     display: inline;
     padding-right: 50px;
+    margin-bottom: 20px;
     
 }
 
@@ -53,6 +56,11 @@ nav li{
 }
 .active{
     border-bottom: 1px solid chocolate;
+}
+
+h1{
+    margin: 51px;
+    width: 50px;
 }
 
 
