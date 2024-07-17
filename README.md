@@ -26,3 +26,9 @@
      - This section will introduce users with Meditation and what Meditation really is.
      - This section will provide users some Meditation benefits.
 
+![Homepage](https://github.com/user-attachments/assets/62da4c91-41e9-40eb-a31e-77fe9ce6c7da)
+
+- __Types of Meditation __
+
+     - This section will introduce users with some simple types of Meditation practice.
+
