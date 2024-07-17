@@ -19,6 +19,10 @@
    - The full responsive navigation bar includes links to the Logo, Home page, Types of Meditation and Contact form.
    - This section will allow the user to easily navigate the site.
 
+![NavigationBar](https://github.com/user-attachments/assets/609413c0-9e2a-4d32-b4a7-1d51da94a959)
 
+- __Home page section__
 
+     - This section will introduce users with Meditation and what Meditation really is.
+     - This section will provide users some Meditation benefits.
 
