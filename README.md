@@ -28,7 +28,14 @@
 
 ![Homepage](https://github.com/user-attachments/assets/62da4c91-41e9-40eb-a31e-77fe9ce6c7da)
 
-- __Types of Meditation __
+- __Types of Meditation__
 
      - This section will introduce users with some simple types of Meditation practice.
+
+![typesofmeditation](https://github.com/user-attachments/assets/4d7530fb-f25f-4466-bbb1-88e5923a495d)
+
+- __Contact__
+
+     - Contact form will allow user to easly sign up to the page, and join the Meditation community.
+     - Contact form will aslo allow feedback for user to leave comment or ask the question.
 
