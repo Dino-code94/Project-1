@@ -44,3 +44,7 @@
 - __Back to top__
 
      - Back to top feature will allow user to easily jump from the bottom of the page to the top.
+
+![BacToTop](https://github.com/user-attachments/assets/f7aed1f0-dc99-408c-bc6a-89f010579d9e)
+
+
