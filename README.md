@@ -39,3 +39,8 @@
      - Contact form will allow user to easly sign up to the page, and join the Meditation community.
      - Contact form will aslo allow feedback for user to leave comment or ask the question.
 
+![contactform](https://github.com/user-attachments/assets/aa199426-3b50-40df-87f5-93ddf0a684f3)
+
+- __Back to top__
+
+     - Back to top feature will allow user to easily jump from the bottom of the page to the top.
