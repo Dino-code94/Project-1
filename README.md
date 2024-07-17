@@ -45,6 +45,39 @@
 
      - Back to top feature will allow user to easily jump from the bottom of the page to the top.
 
-![BacToTop](https://github.com/user-attachments/assets/f7aed1f0-dc99-408c-bc6a-89f010579d9e)
+ ![BacToTop](https://github.com/user-attachments/assets/f7aed1f0-dc99-408c-bc6a-89f010579d9e)
+
+ ## Typography 
+
+   - I used the Google Font called 'Nunito, sans-serif' for the Meditation site.
+
+   - [Nunito](https://fonts.google.com/specimen/Nunito+Sans)
+
+## Tools & Technologies
+
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for main page content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) layout and desing.
+- [GIT](https://git-scm.com) version control system (Git add , Git commit and Git push).
+- [GitHub](https://github.com) used for - create, change, merge, and collaborate with files and code.
+- [GutHub Pages](https://pages.github.com) used for hosting the page.
+- [VsCode](https://code.visualstudio.com/) used for operations like debugging, task running, and version control.
+- [Google Fonts](https://fonts.google.com/) used for downloading suitable font.
+
+### Validator testing
+
+- HTML
+- CSS
+   - No errors were returned when passing through the official [W3C Validator](https://jigsaw.w3.org/css-validator/)
+
+## Credits
+
+### Content
+
+  - The text for the home page was taken from online resources such as Wikipedia.
+  - The text for the Types of Meditation was taken from Google research, Wikipedia.
+
+### Media 
+
+  - The main picture and the logo were taken from the [Google Images](https://www.google.com/search?sca_esv=a135d1cef58d6723&rlz=1C1VDKB_enAT1101AT1101&q=meditation+photos&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jonhbbcqQszH7grY4dWHpFLuEUA-tY2uH58eTxd9cqGwlXKW7EXjMiTglRC74-mGMvfO8ygkzIUEqIY9OuxUHgovBkmc1vow1hnZ7Jqd0guJVhN-vM&sa=X&sqi=2&ved=2ahUKEwiut7D5p66HAxWhExAIHYZCFfgQtKgLegQIEhAB&biw=1920&bih=945&dpr=1)
 
 
