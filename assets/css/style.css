@@ -66,6 +66,7 @@ h1{
     
 }
 
+/* Style for the hero section */
 
 #logo>img{
     border-radius: 100%;
@@ -75,6 +76,7 @@ h1{
 
 #hero-image{
     width: 100%;
+    position: relative;
        
 }
 
@@ -84,6 +86,7 @@ h1{
     padding: 0%;
     margin: 0%;
     height: 600px;
+    object-fit: cover;
 }
      
  
@@ -103,6 +106,8 @@ h1{
     right:200px;
     bottom:0px;
 }
+
+/* style for the content of the home page */
 
 .def-meditation {
     margin: 20px auto;
@@ -137,18 +142,24 @@ li {
     text-align: justify;
 }
 
+/* style for the content of the meditation types page */
+
 .meditation-types{
     margin: 20px auto;
     width: 75%;
    }
 
+/* style for the contact page */
+
 .form-section{
     display: flex;
     justify-content: center;
+    
 }
 
 .form-content{   
-    margin: 20px 0 40px 190px;
+    margin: 20px auto;
+    width: 75%;
 }
 
 .label{
@@ -157,7 +168,7 @@ font-weight: 500;
 
 .contact{
     color: black;
-    width: 400px;
+    width: 250px;
     height: 30px;
     border: 1px solid black;
     border-radius: 2px; 
@@ -170,7 +181,7 @@ font-weight: 500;
 
 .feedback{
     border: 1px solid black;
-    width: 400px;
+    width: 250px;
     height: 70px;
     border-radius: 2px; 
     margin-bottom: 10px;   
