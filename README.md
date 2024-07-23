@@ -45,7 +45,7 @@
 
      - Back to top feature will allow user to easily jump from the bottom of the page to the top.
 
-![back](assets/images/back.png)
+![BackToTop](https://github.com/user-attachments/assets/2c3eb639-dbaf-4e5e-83c0-4927d2b752d3)
 
  ## Typography 
 
