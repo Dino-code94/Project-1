@@ -81,3 +81,15 @@
   - The main picture and the logo were taken from the [Google Images](https://www.google.com/search?sca_esv=a135d1cef58d6723&rlz=1C1VDKB_enAT1101AT1101&q=meditation+photos&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jonhbbcqQszH7grY4dWHpFLuEUA-tY2uH58eTxd9cqGwlXKW7EXjMiTglRC74-mGMvfO8ygkzIUEqIY9OuxUHgovBkmc1vow1hnZ7Jqd0guJVhN-vM&sa=X&sqi=2&ved=2ahUKEwiut7D5p66HAxWhExAIHYZCFfgQtKgLegQIEhAB&biw=1920&bih=945&dpr=1)
 
 
+## Deployment
+
+- The site was deployed to GitHub pages as follows:
+
+ - In the GitHub repository, navigate to the Settings tab
+ - Open the "Pages" page in the sidebar
+ - From the source section drop-down menu, select the Main Branch
+ - Once the Main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here: https://dino-code94.github.io/Project-1
+
+
