@@ -8,7 +8,7 @@
   Focusing your attention is what helps free your mind from the many things that cause stress and 
   worry. You can focus your attention on things such as a certain object, an image, a mantra or even your breathing. Relaxed breathing.
 
- ![MainimageDK](https://github.com/user-attachments/assets/26ff4d45-e913-4012-b9a8-fb4103cd255b)
+ ![MainimageDK](assets/images/hero-image.webp)
 
 ## Features
 
@@ -19,33 +19,33 @@
    - The full responsive navigation bar includes links to the Logo, Home page, Types of Meditation and Contact form.
    - This section will allow the user to easily navigate the site.
 
-![NavigationBar](https://github.com/user-attachments/assets/609413c0-9e2a-4d32-b4a7-1d51da94a959)
+![NavigationBar](assets/images/NavigationBar.png)
 
 - __Home page section__
 
      - This section will introduce users with Meditation and what Meditation really is.
      - This section will provide users some Meditation benefits.
 
-![Homepage](https://github.com/user-attachments/assets/62da4c91-41e9-40eb-a31e-77fe9ce6c7da)
+![Homepage](assets/images/Homepage.png)
 
 - __Types of Meditation__
 
      - This section will introduce users with some simple types of Meditation practice.
 
-![typesofmeditation](https://github.com/user-attachments/assets/4d7530fb-f25f-4466-bbb1-88e5923a495d)
+![types](assets/images/types.png)
 
 - __Contact__
 
      - Contact form will allow user to easly sign up to the page, and join the Meditation community.
-     - Contact form will aslo allow feedback for user to leave comment or ask the question.
+     - Contact form will also allow feedback for user to leave comment or ask the question.
 
-![contactform](https://github.com/user-attachments/assets/aa199426-3b50-40df-87f5-93ddf0a684f3)
+![contactform](assets/images/contactform.png)
 
 - __Back to top__
 
      - Back to top feature will allow user to easily jump from the bottom of the page to the top.
 
- ![BacToTop](https://github.com/user-attachments/assets/f7aed1f0-dc99-408c-bc6a-89f010579d9e)
+![back](assets/images/back.png)
 
  ## Typography 
 
@@ -66,8 +66,9 @@
 ### Validator testing
 
 - HTML
+   - No errors were returned when passing through the official [W3C Validator](https://dino-code94.github.io/Project-1/](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdino-code94.github.io%2FProject-1%2Findex.html)
 - CSS
-   - No errors were returned when passing through the official [W3C Validator](https://jigsaw.w3.org/css-validator/)
+   - No errors were returned when passing through the official [W3C Validator](https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdino-code94.github.[…]&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Credits
 
