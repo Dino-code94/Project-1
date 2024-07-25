@@ -62,10 +62,10 @@
 ### Validator testing
 
 - HTML
-   - No errors were returned when passing through the official [W3C Validator](https://dino-code94.github.io/Project-1/](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdino-code94.github.io%2FProject-1%2Findex.html))
+   - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdino-code94.github.io%2FProject-1%2Findex.html)
 
 - CSS
-   - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdino-code94.github.io%2FProject-1%2Findex.html)
+   - No errors were returned when passing through the official [W3C Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdino-code94.github.io%2FProject-1%2F)
 
 ## Credits
 
